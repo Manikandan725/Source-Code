@@ -1,0 +1,22 @@
+07-18-2023 15:26:49	WFMdll.dll                      	ApplicationStatus.GetMacAddress 	No network card (NIC) found
+07-18-2023 15:26:49	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+07-18-2023 15:26:49	WFMdll.dll                      	ApplicationStatus.GetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+07-18-2023 15:26:49	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+07-18-2023 15:26:51	WFMdll.dll                      	ApplicationStatus.SetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+07-18-2023 15:26:51	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+07-18-2023 15:28:27	WFMdll.dll                      	ApplicationStatus.GetMacAddress 	No network card (NIC) found
+07-18-2023 15:28:27	LogFile                         	WriteLogDb                      	The INSERT permission was denied on the object 'ErrorDetails', database 'GENERICV1', schema 'dbo'.
+07-18-2023 15:28:27	WFMdll.dll                      	ApplicationStatus.GetStatus     	The EXECUTE permission was denied on the object 'USP_WFM_GetApplicationStatus', database 'GENERICV1', schema 'dbo'.
+07-18-2023 15:28:27	LogFile                         	WriteLogDb                      	The INSERT permission was denied on the object 'ErrorDetails', database 'GENERICV1', schema 'dbo'.
+07-18-2023 15:28:30	WFMdll.dll                      	ApplicationStatus.SetStatus     	The EXECUTE permission was denied on the object 'usp_Wfm_SetApplicationStatus', database 'GENERICV1', schema 'dbo'.
+07-18-2023 15:28:30	LogFile                         	WriteLogDb                      	The INSERT permission was denied on the object 'ErrorDetails', database 'GENERICV1', schema 'dbo'.

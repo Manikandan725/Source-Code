@@ -1,0 +1,40 @@
+12-13-2023 18:00:07	WFMdll.dll                      	ApplicationStatus.GetMacAddress 	No network card (NIC) found
+12-13-2023 18:00:07	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:07	WFMdll.dll                      	ApplicationStatus.GetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:07	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:10	WFMdll.dll                      	ApplicationStatus.SetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:10	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:10	TTYWebService.exe               	DbLayer.GetCustomerDs           	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english. File: D:\Exela\Application_Tools\Final_Source\OMW\TTYWebService\DBLayer.cs - Line: 36 - Col: 21
+12-13-2023 18:00:10	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:23	WFMdll.dll                      	ApplicationStatus.SetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:23	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:25	WFMdll.dll                      	ApplicationStatus.SetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:25	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+12-13-2023 18:00:50	TTYWebService.exe               	DbLayer.GetCustomerDs           	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english. File: D:\Exela\Application_Tools\Final_Source\OMW\TTYWebService\DBLayer.cs - Line: 36 - Col: 21
+12-13-2023 18:00:50	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.

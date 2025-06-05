@@ -1,0 +1,17 @@
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYXMLValidation.csproj.AssemblyReference.cache
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYValidate.TTYXMLValidation.ProductionsiteUploadFrm.resources
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYValidate.TTYXMLValidation.Properties.Resources.resources
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYXMLValidation.csproj.GenerateResource.cache
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYXMLValidation.csproj.CoreCompileInputs.cache
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\TTYXMLValidation.exe
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\TTYXMLValidation.pdb
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\Ethos.Core.dll
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\Generic.Connection.dll
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\Generic.Util.dll
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\bin\Debug\Generic.Util.pdb
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYXMLValidation.csproj.CopyComplete
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYXMLValidation.exe
+D:\Exela\Application_Tools\Final_Source\GitHub\TTYXMLValidation\obj\Debug\TTYXMLValidation.pdb

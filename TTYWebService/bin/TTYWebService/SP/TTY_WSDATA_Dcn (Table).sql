@@ -1,0 +1,34 @@
+/****** Object:  Table [dbo].[TTY_WSDATA_Dcn]    Script Date: 10-16-2023 18:29:51 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+CREATE TABLE [dbo].[TTY_WSDATA_Dcn](
+	[CustId] [int] NOT NULL,
+	[ProjId] [int] NOT NULL,
+	[Dcn] [varchar](100) NOT NULL,
+	[SendXml] [varchar](max) NULL,
+	[ReturnXml] [varchar](max) NULL,
+	[CreatedDate] [datetime] NULL,
+ CONSTRAINT [PK__TTY_WSDATA_Dcn__1DE57479] PRIMARY KEY CLUSTERED 
+(
+	[CustId] ASC,
+	[ProjId] ASC,
+	[Dcn] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, FILLFACTOR = 95) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+ALTER TABLE [dbo].[TTY_WSDATA_Dcn] ADD  DEFAULT (getdate()) FOR [CreatedDate]
+GO
+
+

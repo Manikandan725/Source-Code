@@ -43,6 +43,15 @@
     <Reference Include="Generic.Connection">
       <HintPath>lib\Generic.Connection.dll</HintPath>
     </Reference>
+    <Reference Include="Generic.Util">
+      <HintPath>..\..\dlls\dlls\Generic.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\..\dlls\dlls\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\..\dlls\dlls\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -53,7 +62,9 @@
     <Compile Include="PSUpload\Properties\Resources.cs" />
     <Compile Include="PSUpload\Properties\Settings.cs" />
     <Compile Include="TTYXMLValidation.cs" />
-    <Compile Include="ProductionsiteUploadFrm.cs" />
+    <Compile Include="ProductionsiteUploadFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="AssemblyInfo.cs" />
   </ItemGroup>

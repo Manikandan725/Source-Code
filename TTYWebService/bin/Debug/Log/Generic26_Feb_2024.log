@@ -1,0 +1,16 @@
+02-26-2024 10:36:49	WFMdll.dll                      	ApplicationStatus.GetMacAddress 	No network card (NIC) found
+02-26-2024 10:36:49	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+02-26-2024 10:36:49	WFMdll.dll                      	ApplicationStatus.GetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+02-26-2024 10:36:49	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+02-26-2024 10:36:53	WFMdll.dll                      	ApplicationStatus.SetStatus     	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
+02-26-2024 10:36:53	LogFile                         	WriteLogDb                      	Logon failed for login 'generic' due to trigger execution.
+Changed database context to 'GenericV1'.
+Changed language setting to us_english.
